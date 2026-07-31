@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Arunaditya%20Raguraman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20(AI%20%26%20Robotics)%20%7C%20Full-Stack%2C%20IoT%20%26%20Mobile%20Dev&descAlignY=55&descSize=18" />
+  <img src="assets/header.svg" width="100%" />
 </p>
 
 <p align="center">
@@ -46,16 +46,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=Featured%20Projects&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-**[Efficient Number Sorting Robotic Arm using OCR]([https://github.com/Sketch-to-code](https://github.com/Sketch-to-code/Robotics_Project_Sem_V))**
+**[Efficient Number Sorting Robotic Arm using OCR](https://github.com/Sketch-to-code/Robotics_Project_Sem_V))**
 Robotic arm system combining computer vision, OCR, and robotic actuation for automated warehouse-style sorting.
 
-**[Katha — A Reader's Companion]([https://github.com/Sketch-to-code](https://github.com/Sketch-to-code/Katha_A_Reader_Companion))**
+**[Katha — A Reader's Companion](https://github.com/Sketch-to-code/Katha_A_Reader_Companion)**
 MERN stack app that turns uploaded PDFs into an immersive reading experience, with AI-generated summaries and ambient background music.
 
-**[PharmaQuest]([https://github.com/Sketch-to-code](https://github.com/Sketch-to-code/Web-programming-project-version-1))**
+**[PharmaQuest](https://github.com/Sketch-to-code/Web-programming-project-version-1)**
 Web app to locate nearby pharmacies and suggest medicines based on symptoms, using geolocation and a pharmacy database.
 
-**[SOS Crash Detection App]([https://github.com/Sketch-to-code](https://github.com/Sketch-to-code/emergency_sos))**
+**[SOS Crash Detection App](https://github.com/Sketch-to-code/emergency_sos)**
 Flutter mobile app that detects vehicle crashes via device sensors and sends instant SOS alerts to emergency contacts.
 
 **[yt_save](https://github.com/Sketch-to-code/yt_save)**
@@ -74,7 +74,7 @@ A prototype to Katha project
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sketch-to-code&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=Sketch-to-code&hide_border=true" height="165"/>
+  <img src="assets/footer.svg" width="100%"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sketch-to-code&layout=compact&hide_border=true&theme=default" height="165"/>
