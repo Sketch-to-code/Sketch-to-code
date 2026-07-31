@@ -11,11 +11,10 @@
 
 ### About Me
 
-- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** student at VIT Chennai — CGPA 8.36
+- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** student
 - 💻 Interests: Full-stack web development, IoT/hardware systems, and mobile app development
 - 🧠 Solved 100+ DSA problems on LeetCode (arrays, graphs, dynamic programming)
 - 🔬 Completed an internship at **IIT Ropar**
-- 🤖 Active member of the Robotics Club, VIT Chennai
 - 🌱 Actively seeking internships across software, web, hardware/IoT, and mobile domains
 
 ---
