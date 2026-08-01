@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Arunaditya%20Raguraman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20(AI%20%26%20Robotics)%20%7C%20Full-Stack%2C%20IoT%20%26%20Mobile%20Dev&descAlignY=55&descSize=18" />
+  <img src="assets/header.svg" width="100%"/>
 </p>
 
 <p align="center">
@@ -18,11 +18,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** student at VIT Chennai — CGPA 8.36
+- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** 
 - 💻 Interests: Full-stack web development, IoT/hardware systems, and mobile app development
-- 🧠 Solved 100+ DSA problems on LeetCode (arrays, graphs, dynamic programming)
-- 🔬 Completed an internship at **IIT Ropar**
-- 🤖 Active member of the Robotics Club, VIT Chennai
 - 🌱 Actively seeking internships across software, web, hardware/IoT, and mobile domains
 
 ---
@@ -83,4 +80,4 @@ An early prototype for the Katha project.
 
 <p align="center"><i>Open to internships in software, web, IoT/hardware, and mobile development.</i></p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=100&section=footer" width="100%"/>
+<img src="assets/footer.svg" width="100%"/>
