@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1BFFFF&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Tinkering+with+IoT+%26+robotics;Solving+DSA+on+LeetCode;Open+to+internships+2026" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E74C3C&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Tinkering+with+IoT+%26+robotics;Solving+DSA+on+LeetCode;Open+to+internships+2026" />
   </a>
 </p>
 
@@ -16,15 +16,18 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:C0392B&height=45&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** 
+- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** student at VIT Chennai — CGPA 8.36
 - 💻 Interests: Full-stack web development, IoT/hardware systems, and mobile app development
+- 🧠 Solved 100+ DSA problems on LeetCode (arrays, graphs, dynamic programming)
+- 🔬 Completed an internship at **IIT Ropar**
+- 🤖 Active member of the Robotics Club, VIT Chennai
 - 🌱 Actively seeking internships across software, web, hardware/IoT, and mobile domains
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=Tech%20Stack&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:C0392B&height=45&section=header&text=Tech%20Stack&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,7 +47,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=Featured%20Projects&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:C0392B&height=45&section=header&text=Featured%20Projects&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 **[Efficient Number Sorting Robotic Arm using OCR](https://github.com/Sketch-to-code/Robotics_Project_Sem_V)**
 Robotic arm system combining computer vision, OCR, and robotic actuation for automated warehouse-style sorting.
@@ -66,7 +69,7 @@ An early prototype for the Katha project.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=GitHub%20Stats&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141414,100:C0392B&height=45&section=header&text=GitHub%20Stats&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <p align="center">
   <img src="https://github-readme-stats-weld-two-40.vercel.app/api?username=Sketch-to-code&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
