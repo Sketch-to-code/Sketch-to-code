@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3192,100:1BFFFF&height=180&section=header&text=Arunaditya%20Raguraman&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CSE%20(AI%20%26%20Robotics)%20%7C%20Full-Stack%2C%20IoT%20%26%20Mobile%20Dev&descAlignY=55&descSize=18" />
 </p>
 
 <p align="center">
@@ -18,8 +18,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=About%20Me&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
+- 🎓 3rd-year **B.Tech CSE (AI & Robotics)** student at VIT Chennai — CGPA 8.36
 - 💻 Interests: Full-stack web development, IoT/hardware systems, and mobile app development
 - 🧠 Solved 100+ DSA problems on LeetCode (arrays, graphs, dynamic programming)
+- 🔬 Completed an internship at **IIT Ropar**
+- 🤖 Active member of the Robotics Club, VIT Chennai
 - 🌱 Actively seeking internships across software, web, hardware/IoT, and mobile domains
 
 ---
@@ -46,7 +49,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=Featured%20Projects&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
-**[Efficient Number Sorting Robotic Arm using OCR](https://github.com/Sketch-to-code/Robotics_Project_Sem_V))**
+**[Efficient Number Sorting Robotic Arm using OCR](https://github.com/Sketch-to-code/Robotics_Project_Sem_V)**
 Robotic arm system combining computer vision, OCR, and robotic actuation for automated warehouse-style sorting.
 
 **[Katha — A Reader's Companion](https://github.com/Sketch-to-code/Katha_A_Reader_Companion)**
@@ -59,25 +62,21 @@ Web app to locate nearby pharmacies and suggest medicines based on symptoms, usi
 Flutter mobile app that detects vehicle crashes via device sensors and sends instant SOS alerts to emergency contacts.
 
 **[yt_save](https://github.com/Sketch-to-code/yt_save)**
-A small prototype which saves the yt videos which you wish to watch later along with an option to prioritize.
+A small prototype that saves YouTube videos you want to watch later, with an option to prioritize them.
 
 **[pdf_book_reader](https://github.com/Sketch-to-code/pdf_book_reader)**
-A prototype to Katha project
-
-
-
-> 🔗 Replace the placeholder links above with the actual repo URLs once available.
+An early prototype for the Katha project.
 
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2E3192,100:1BFFFF&height=45&section=header&text=GitHub%20Stats&fontSize=20&fontColor=ffffff&animation=twinkling" width="100%"/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sketch-to-code&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-  <img src="assets/footer.svg" width="100%"/>
+  <img src="https://github-readme-stats-weld-two-40.vercel.app/api?username=Sketch-to-code&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Sketch-to-code&hide_border=true" height="165"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sketch-to-code&layout=compact&hide_border=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats-weld-two-40.vercel.app/api/top-langs/?username=Sketch-to-code&layout=compact&hide_border=true&theme=default" height="165"/>
 </p>
 
 ---
